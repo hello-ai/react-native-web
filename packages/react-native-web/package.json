@@ -2,7 +2,7 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
-  "name": "react-native-web",
+  "name": "react-native-web19",
   "version": "0.19.13",
   "description": "React Native for Web",
   "module": "dist/index.js",
